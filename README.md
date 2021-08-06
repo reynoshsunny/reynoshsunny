@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/reynosh_sunny" target="blank"><img src="https://img.shields.io/twitter/follow/reynosh_sunny?logo=twitter&style=for-the-badge" alt="reynosh_sunny" /></a> </p>
 
-- 📫 How to reach me **reynoshsunny@gmail.com**
-
 - ⚡ Fun fact **I love to create**
 
 ### Blogs posts
